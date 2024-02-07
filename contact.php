@@ -4,6 +4,8 @@ require('functions.php');
 hdr();
 echo'<script src="api/api_feedback.js"></script>';
 
+
+
 echo'
 <div class="Subpage-container" dir="rtl">
         <div class="container-fluid">
